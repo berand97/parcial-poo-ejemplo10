@@ -1,1 +1,0 @@
-# parcial-poo-ejemplo10
